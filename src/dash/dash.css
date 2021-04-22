@@ -1,0 +1,22 @@
+.headers{
+    margin-top: 3%;
+    position: relative;
+}
+.name{
+    height:600px;
+    width: 100%;    
+    position: absolute;
+    top:20px;
+
+}
+
+.head-style{
+    border:1px solid black;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.box-style{
+    
+    border-radius: 12px;
+    box-shadow: 5px 12px  20px #888888;
+}
